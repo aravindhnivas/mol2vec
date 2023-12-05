@@ -95,3 +95,6 @@ eprint = {http://dx.doi.org/10.1021/acs.jcim.7b00616}
 
 ### Sponsor info
 Initial development was supported by [BioMed X Innovation Center](https://bio.mx), Heidelberg.
+
+### Migration to GENSIM v4
+follow: https://github.com/piskvorky/gensim/wiki/Migrating-from-Gensim-3.x-to-4
